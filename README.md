@@ -18,13 +18,11 @@ This Power BI dashboard provides a comprehensive analysis of *Zepto's Inventory 
 
 ## 🛠️ Tools & Technologies Used
 - *Power BI* (Data Visualization & Dashboarding)
-- *SQL* (Data Extraction & Transformation)
 - *Excel* (Data Cleaning & Preprocessing)
 - *DAX* (Data Analysis Expressions for Measures & Calculations)
 
 ## 📂 Data Sources
 The dataset includes:
-- *Inventory Data:* SKU-wise stock levels, stock movement history.
 - *Supply Chain Records:* Supplier details, lead times, and delivery performance.
 - *Sales Data:* Product demand trends, order processing time, and fulfillment rates.
 
@@ -46,8 +44,8 @@ The dataset includes:
 
 ## 📞 Connect with Me
 If you're interested in exploring more insights or collaborating, feel free to connect:
-- *LinkedIn:*https://github.com/GitanjaliPekamwar (#)
-- *Email:* pekamwargitanjali@gmail.com(#)
+- *LinkedIn:*https://github.com/GitanjaliPekamwar 
+- *Email:* pekamwargitanjali@gmail.com
 
 ---
 
