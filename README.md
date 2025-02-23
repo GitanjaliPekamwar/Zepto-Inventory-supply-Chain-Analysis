@@ -46,8 +46,8 @@ The dataset includes:
 
 ## 📞 Connect with Me
 If you're interested in exploring more insights or collaborating, feel free to connect:
-- *LinkedIn:* [Your LinkedIn Profile](#)
-- *Email:* [Your Email](#)
+- *LinkedIn:*https://github.com/GitanjaliPekamwar (#)
+- *Email:* pekamwargitanjali@gmail.com(#)
 
 ---
 
