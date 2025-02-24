@@ -33,9 +33,9 @@ The dataset includes:
 - Reduced *stockouts and overstocking*, leading to improved operational efficiency.
 
 ## 📈 Business Impact
-*🔹 Total sales: 18M units sold-- Business is booming!
-*🔹 Average Order Value (AOV): ₹501.4, giving insights into customer spending patterns.
-*🔹 Top-Selling Brands: Farm Fresh (25.51%), Amul (22.67%), and Cadbury (20.24%)—snacking is serious business!
+🔹 *Total sales:* 18M units sold-- Business is booming!
+🔹 *Average Order Value (AOV):* ₹501.4, giving insights into customer spending patterns.
+🔹 Top-Selling Brands: Farm Fresh (25.51%), Amul (22.67%), and Cadbury (20.24%)—snacking is serious business!
 🔹 Return Rate: 10% of orders returned—mostly due to stale or damaged products.
 🔹 Delayed Deliveries: A surprising 79.9% of orders were not on time—room for logistics optimization!
 🔹 Refund Trends: Spiked between Jan 26 - Feb 9—was it a seasonal trend or an operational hiccup?
