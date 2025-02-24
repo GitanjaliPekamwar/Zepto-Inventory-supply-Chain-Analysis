@@ -27,12 +27,6 @@ The dataset includes:
 - *Sales Data:* Product demand trends, order processing time, and fulfillment rates.
 
 ## 📌 Insights Derived
-- Identified *slow-moving and fast-moving inventory* to optimize stock levels.
-- Improved *supplier selection* by analyzing on-time delivery and performance ratings.
-- Predicted *future demand trends* using historical sales data.
-- Reduced *stockouts and overstocking*, leading to improved operational efficiency.
-
-## 📈 Business Impact
 ◆ _Total sales_: 18M units sold—Business is booming!  
 ◆ _Average Order Value (AOV)_: ₹501.4, giving insights into customer spending patterns.  
 ◆ _Top-Selling Brands_: Farm Fresh (25.51%), Amul (22.67%), and Cadbury (20.24%)—snacking is serious business!  
