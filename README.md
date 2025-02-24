@@ -18,14 +18,16 @@ This Power BI dashboard provides a comprehensive analysis of Zepto's Inventory M
 
 ## 🛠️ Tools & Technologies Used
 - *Power BI* (Data Visualization & Dashboarding)
-- *Excel* (Data Cleaning & Preprocessing)
+- *Power Query*(Data Transformation)
 - *DAX* (Data Analysis Expressions for Measures & Calculations)
 
 ## 📂 Data Sources
 The dataset includes:
-- *Supply Chain Records:* Supplier details, lead times, and delivery performance.
-- *Sales Data:* Product demand trends, order processing time, and fulfillment rates.
-
+- *Delivery.csv*
+- *Inventory.csv*
+- *Orders.csv*
+- *Products.csv*
+- *Returns.csv*
 ## 📌 Insights Derived
 ◆ _Total sales_: 18M units sold—Business is booming!  
 ◆ _Average Order Value (AOV)_: ₹501.4, giving insights into customer spending patterns.  
