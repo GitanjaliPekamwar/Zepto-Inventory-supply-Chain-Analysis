@@ -1,7 +1,7 @@
 # Zepto Inventory Metrics and Supply Chain - Power BI Dashboard
 
 ## 📌 Project Overview
-This Power BI dashboard provides a comprehensive analysis of *Zepto's Inventory Metrics and Supply Chain, helping businesses optimize stock management, track supply chain efficiency, and make data-driven decisions. The dashboard offers key insights into **inventory levels, stock turnover, supplier performance, demand forecasting, and order fulfillment rates*.
+This Power BI dashboard provides a comprehensive analysis of Zepto's Inventory Metrics and Supply Chain, helping businesses optimize stock management, track supply chain efficiency, and make data-driven decisions. The dashboard offers key insights into *inventory levels, stock turnover, return rate , supplier performance, demand forecasting, and order fulfillment rates*.
 
 ## 🎯 Objectives
 - *Monitor Inventory Performance:* Track stock levels, turnover rates, and replenishment cycles.
@@ -33,15 +33,13 @@ The dataset includes:
 - Reduced *stockouts and overstocking*, leading to improved operational efficiency.
 
 ## 📈 Business Impact
-- *25% reduction* in inventory holding costs by optimizing stock levels.
-- *Increased order fulfillment rate* by streamlining supplier performance.
-- *Improved decision-making* through real-time data visualization and forecasting.
-
-## 🚀 Future Enhancements
-- Integrating *real-time data updates* for live tracking.
-- Implementing *machine learning models* for advanced demand forecasting.
-- Adding *automated alerts* for low stock and delayed orders.
-
+🔹 Total sales: 18M units sold-- Business is booming!
+🔹 Average Order Value (AOV): ₹501.4, giving insights into customer spending patterns.
+🔹 Top-Selling Brands: Farm Fresh (25.51%), Amul (22.67%), and Cadbury (20.24%)—snacking is serious business!
+🔹 Return Rate: 10% of orders returned—mostly due to stale or damaged products.
+🔹 Delayed Deliveries: A surprising 79.9% of orders were not on time—room for logistics optimization!
+🔹 Refund Trends: Spiked between Jan 26 - Feb 9—was it a seasonal trend or an operational hiccup?
+🔹Top selling-Categories : Dairy and Beverages contributing 35%of Total sales.
 ## 📞 Connect with Me
 If you're interested in exploring more insights or collaborating, feel free to connect:
 - *LinkedIn:*https://github.com/GitanjaliPekamwar 
